@@ -5,3 +5,7 @@ template/
 /qa
 /input-cache
 input/l2/Temp Archive/*
+.idea
+.idea/*
+*/.idea/*
+.idea/*
